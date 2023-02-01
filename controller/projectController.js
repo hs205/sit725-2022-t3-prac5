@@ -6,6 +6,7 @@ let projectModel = require ("../models/project")
 
 // setTimeout(() => {
 //     projectCollection = client.mongoClient.db().collection("Projects");
+// }, 2000)
 
 // //insert project...
 // const insertProjects = (project, callback) => {
